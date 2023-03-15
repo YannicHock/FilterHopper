@@ -1,0 +1,7 @@
+main: ${spigot.mainClass}
+name: ${project.name}
+description: ${project.description} ${project.version}
+database: true
+version: ${project.version}
+api-version: ${spigot.version}
+author: ${author}

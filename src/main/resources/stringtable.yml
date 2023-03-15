@@ -1,0 +1,36 @@
+messages:
+  changedFiltertype: "§a§lFilter §8» §7Du hast den Filtermodus §e%Filtermodus% §7ausgewählt."
+
+inventoryNames:
+  configurationMenu: "§8» §e§lTrichter§8-§6Filter"
+
+inventoryItems:
+  loading:
+    name: "§fLoading..."
+  disableHopper:
+    name: "§cAbschalten"
+  enableHopper:
+    name: "§aAnschalten"
+  whitelist:
+    name: "§aErlaubte Items"
+    lore:
+      - "§7Status: §aErlaubte Items"
+      - "§7Filtere hier Items, die §aeingesammelt §7werden sollen. Alle anderen Items werden in dieser Option nicht eingesammelt."
+      - ""
+      - "§8Klicke um diese Filteroption zu ändern."
+  blacklist:
+    name: "§cVerbotene Items"
+    lore:
+      - "§7Status: §cVerbotene Items"
+      - "§7Filtert hier nach Items, welche §cnicht §7eingesammelt werden sollen. Alle anderen Items werden eingesammelt."
+      - ""
+      - "§8Klicke um diese Filter Option zu ändern."
+  lockedSlot:
+    name: "§cNicht Freigeschaltet"
+    lore:
+      - "§7Du kannst diesen Slot durch den Kauf eines Ranges (%needed_rank%) freischalten."
+      - "§estore.iostein.net"
+permission:
+  rankMap:
+    slot_4: "Pro"
+    slot_5: "Alpha"
